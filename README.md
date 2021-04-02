@@ -1,6 +1,7 @@
 ### NSDCode
-╚═( ͡° ͜ʖ ͡°)═╝
-- :zap: Mainly .NET Devloper, learning C++  
+- :zap: Mainly .NET Devloper, learning various langages. 
 - 🌱 I like reverse engineering
 - :earth_africa: love to share my work here
-- ☕ wanna donate ? https://www.paypal.com/pools/c/8vxhk6u6Av/
+
+
+note: everything on this page is for educational purpose.
