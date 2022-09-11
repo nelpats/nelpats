@@ -64,5 +64,4 @@
 
 <br/>  
 
-<img src="https://user-images.githubusercontent.com/47573987/189538686-5b32d1b6-0833-4b4c-bd9a-342d0cfee462.jpg" width=100%, height=250px>
 
