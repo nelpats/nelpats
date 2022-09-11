@@ -1,5 +1,5 @@
 <div align="center">
-![banner2](https://user-images.githubusercontent.com/47573987/189538353-7e24dfdb-ebcb-4f41-a93d-5e96cf0a1341.png)
+<img src="https://user-images.githubusercontent.com/47573987/189538353-7e24dfdb-ebcb-4f41-a93d-5e96cf0a1341.png">
 </div>  
   
 
