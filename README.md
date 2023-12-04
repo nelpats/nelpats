@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://user-images.githubusercontent.com/47573987/189538353-7e24dfdb-ebcb-4f41-a93d-5e96cf0a1341.png">
-</div>  
-  
+# Hi, i'm Noah !  
 
 ### <div align="center">I'm Noah, a computer science student and a developer.</div>  
   
@@ -32,9 +29,7 @@
 ![db-skills](https://skillicons.dev/icons?i=git,docker,kubernetes&perline=3)
 
 <br/>  
-## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nelpats&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>  
 
 
