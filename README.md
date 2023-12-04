@@ -1,4 +1,4 @@
-# Hi, i'm Noah !  
+# Hi, i'm Noah   
 
 ### <div align="center">I'm Noah, a computer science student and a developer.</div>  
   
